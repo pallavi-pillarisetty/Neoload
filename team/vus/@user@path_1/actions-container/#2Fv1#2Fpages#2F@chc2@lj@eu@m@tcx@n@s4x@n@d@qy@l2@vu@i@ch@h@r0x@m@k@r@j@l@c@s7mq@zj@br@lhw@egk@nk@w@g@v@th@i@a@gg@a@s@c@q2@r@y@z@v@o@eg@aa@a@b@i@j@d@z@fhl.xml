@@ -1,0 +1,52 @@
+<http-page executeResourcesDynamically="false"
+    name="/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRJLCS7mqZjBrLhwEgkNkWGVThIAGgASCQ2RYZVOEgAaABIJDZFhl"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_1/%resources%/recorded-artifacts/d84a0dd8-0175-4e1e-b346-ce3ab41f0b9f.zip"
+    slaProfileEnabled="false" thinkTime="30"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d84a0dd8-0175-4e1e-b346-ce3ab41f0b9f">
+    <embedded-action>53fe92c9-985a-46da-9dd2-73f3e9d693d7</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/manifest+json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/_/DotsSplashUi/manifest.json"
+    path="/_/DotsSplashUi/manifest.json" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path_1/%resources%/recorded-artifacts/d84a0dd8-0175-4e1e-b346-ce3ab41f0b9f.zip"
+    recordedResponseCode="200" responseSize="2733"
+    serverUid="news.google.com" slaProfileEnabled="false"
+    uid="53fe92c9-985a-46da-9dd2-73f3e9d693d7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_53fe92c9-985a-46da-9dd2-73f3e9d693d7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_53fe92c9-985a-46da-9dd2-73f3e9d693d7.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://news.google.com/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="1P_JAR=2020-11-08-23; SEARCH_SAMESITE=CgQIjpEB; SID=3Qf3L9uslL7110_jMfNzx_vWLXX-6YowOJMmL4_l4csXVquj948cvegg4KGaVxopKBwf6w.; __Secure-3PSID=3Qf3L9uslL7110_jMfNzx_vWLXX-6YowOJMmL4_l4csXVqujxoYm_xaDZXtisuzERWn8RA.; HSID=AWIwnAtx1BVYxfK7-; SSID=AYWoFBh8d-f78slxt; APISID=vSElgHo8Gf8ewb3b/AQJ-d1KrOmeWWOKNW; SAPISID=oy4sfXUd7ghGm0Wf/ArI9c3scYjOHU78F8; __Secure-3PAPISID=oy4sfXUd7ghGm0Wf/ArI9c3scYjOHU78F8; NID=204=0pxJULwc9gwOvMIwMpkqfhOihAQRdMBAOhPpH1jb2HrVX15AS4okKdTBMdGRqdwdmKapgrzVnAAsZOwcA7XQWyaeicOuaZ4Bs7j2oFEu4vag67cVdlDw4rZPr4xWJ2MDYJtH-r5BUjcWZ_JOQ6U25FwTAJltvQc2r6UPN64pAdFkFZ-gJj4KbSD5CbLMoKfikPaHtGm6yUMtjwld7nq3HEdYJsLr0ohtYYGehZsNVvvlXP4tTpjArO5xb3VZJy6cHHx5fIyM6-NFhYL5YUcsRQbXN8z1Esi14BGYHksJO1o3RUMFJSeBnfq1Q9bWJQhoYI2FcKmxRNm4w-vw; GN_PREF=W251bGwsIkNBRVNEQWlnOHFIOUJSQ1l3YnFuQVEiXQo_; _ga=GA1.3.516575262.1604876578; _gid=GA1.3.930007936.1604876578; _gat_UA1155451512=1; SIDCC=AJi4QfEmQNFgnc8dDB3F2A9yZhCGVTu8TkHoZXq9FtCFi4B6eqDwg1-4pFTgq94JlHbU75Rirg; __Secure-3PSIDCC=AJi4QfGFqovmIyBO3sAibHEOZWCarygEdIhYypj9UZip24ttosGeKLfnoL_CYSB6F-lzOh5bJw"/>
+    <header name="accept-language" value="en-US,en;q=0.9,fr-CA;q=0.8,fr;q=0.7"/>
+    <header name="x-client-data" value="CIS2yQEIpbbJAQjBtskBCKmdygEIk7jKAQisx8oBCPbHygEI6cjKAQjc1coBCO6XywEImJrLAQjBmssBGIrBygE="/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/manifest+json; charset=utf-8&#xd;
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site&#xd;
+expires: Sun, 08 Nov 2020 23:02:58 GMT&#xd;
+date: Sun, 08 Nov 2020 23:02:58 GMT&#xd;
+cache-control: private, max-age=86400&#xd;
+strict-transport-security: max-age=31536000&#xd;
+content-security-policy: script-src 'report-sample' 'nonce-nC4L0UJLv9u7kRaRFjldiA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/DotsSplashUi/cspreport;worker-src 'self'&#xd;
+content-security-policy: script-src 'nonce-nC4L0UJLv9u7kRaRFjldiA' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com https://youtube.com https://www.youtube.com https://youtube.googleapis.com https://*.ytimg.com https://maps.googleapis.com https://www.google-analytics.com/analytics.js https://www.googleapis.com/appsmarket/v2/installedApps/;report-uri /_/DotsSplashUi/cspreport&#xd;
+server: ESF&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+set-cookie: GN_PREF=W251bGwsIkNBRVNEQWlnOHFIOUJSQ1l3YnFuQVEiXQo_; Expires=Mon, 10-May-2021 11:02:58 GMT; Path=/; Secure&#xd;
+set-cookie: SIDCC=AJi4QfGyuFEjSPTe8jbdOH-ZR45pDIStS4Dy9TxY29tl8nrdSaX6NdRgnrdAGx_F0Wtpr486UQ; expires=Mon, 08-Nov-2021 23:02:58 GMT; path=/; domain=.google.com; priority=high&#xd;
+set-cookie: __Secure-3PSIDCC=AJi4QfEmbhbEStFkPIOoXilLmiFjBux2minlOuxH2BTkUDivQpaznTba-RIz3obNA0JU-Ek_vA; expires=Mon, 08-Nov-2021 23:02:58 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none&#xd;
+alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=GoogleTest
+project.version=8.1
+project.original.version=8.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.6.0
+project.id=a0c103f2-03f7-4e5c-b83b-68477468b454
+project.config.path=team
+project.config.storage=XML_MULTI
+team.server.enabled=true
+team.server.project=/pallavi-pillarisetty/Neoload.git

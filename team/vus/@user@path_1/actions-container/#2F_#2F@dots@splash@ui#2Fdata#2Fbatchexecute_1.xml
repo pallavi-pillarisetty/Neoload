@@ -1,0 +1,89 @@
+<http-page executeResourcesDynamically="false"
+    name="/_/DotsSplashUi/data/batchexecute_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_1/%resources%/recorded-artifacts/bfca5190-282a-40fc-a839-0a516ccbd2e9.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bfca5190-282a-40fc-a839-0a516ccbd2e9">
+    <embedded-action>f1efd9dd-45c9-480d-b588-7a478bfdb4b5</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/_/DotsSplashUi/data/batchexecute"
+    path="/_/DotsSplashUi/data/batchexecute" postCharset="UTF-8"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path_1/%resources%/recorded-artifacts/bfca5190-282a-40fc-a839-0a516ccbd2e9.zip"
+    recordedResponseCode="200" responseSize="488"
+    serverUid="news.google.com" slaProfileEnabled="false"
+    uid="f1efd9dd-45c9-480d-b588-7a478bfdb4b5" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[Zi5yZXE9JTVCJTVCJTVCJTIybUhGZ3RmJTIyJTJDJTIyJTVCJTVDJTIyd2FhcmVxJTVDJTIyJTJDJTVCJTVDJTIyZW4tVVMlNUMlMjIlMkMlNUMlMjJVUyU1QyUyMiUyQyU1QiU1QyUyMlNQT1JUU19GVUxMX0NPVkVSQUdFJTVDJTIyJTJDJTVDJTIyV0VCX1RFU1RfMV8wXzAlNUMlMjIlNUQlMkNudWxsJTJDJTVCJTVEJTJDMSUyQzElMkMlNUMlMjJVUyUzQWVuJTVDJTIyJTJDbnVsbCUyQy0zNjAlNUQlMkNudWxsJTJDbnVsbCUyQ251bGwlMkNudWxsJTJDbnVsbCUyQ251bGwlMkNudWxsJTJDbnVsbCUyQzElMkNudWxsJTJDbnVsbCUyQ251bGwlMkNudWxsJTJDbnVsbCUyQyU1QiU1RCUyQ251bGwlMkNudWxsJTJDJTVCJTVEJTVEJTIyJTJDbnVsbCUyQyUyMmdlbmVyaWMlMjIlNUQlNUQlNUQmYXQ9QUk0S3VhZE1RY3NBTGJQNmxxTjZZdnpURGdSVyUzQTE2MDQ4NzY1NzY0MzAm]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_f1efd9dd-45c9-480d-b588-7a478bfdb4b5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f1efd9dd-45c9-480d-b588-7a478bfdb4b5.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="f.req"
+        recordRawValue="%5B%5B%5B%22mHFgtf%22%2C%22%5B%5C%22waareq%5C%22%2C%5B%5C%22en-US%5C%22%2C%5C%22US%5C%22%2C%5B%5C%22SPORTS_FULL_COVERAGE%5C%22%2C%5C%22WEB_TEST_1_0_0%5C%22%5D%2Cnull%2C%5B%5D%2C1%2C1%2C%5C%22US%3Aen%5C%22%2Cnull%2C-360%5D%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C1%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%5B%5D%2Cnull%2Cnull%2C%5B%5D%5D%22%2Cnull%2C%22generic%22%5D%5D%5D"
+        separator="="
+        value="[[[&quot;mHFgtf&quot;,&quot;[\&quot;waareq\&quot;,[\&quot;en-US\&quot;,\&quot;US\&quot;,[\&quot;SPORTS_FULL_COVERAGE\&quot;,\&quot;WEB_TEST_1_0_0\&quot;],null,[],1,1,\&quot;US:en\&quot;,null,-360],null,null,null,null,null,null,null,null,1,null,null,null,null,null,[],null,null,[]]&quot;,null,&quot;generic&quot;]]]" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="at"
+        recordRawValue="AI4KuadMQcsALbP6lqN6YvzTDgRW%3A1604876576430"
+        separator="=" value="AI4KuadMQcsALbP6lqN6YvzTDgRW:1604876576430" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="rpcids"
+        recordRawValue="mHFgtf" separator="=" value="mHFgtf" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="f.sid"
+        recordRawValue="-6109369032819856584" separator="="
+        value="-6109369032819856584" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="bl"
+        recordRawValue="boq_dotssplashserver_20201023.18_p1"
+        separator="=" value="boq_dotssplashserver_20201023.18_p1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="gl"
+        recordRawValue="US" separator="=" value="US" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="soc-app" recordRawValue="140" separator="=" value="140" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="soc-platform" recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="soc-device" recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="_reqid"
+        recordRawValue="161378" separator="=" value="161378" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="rt"
+        recordRawValue="c" separator="=" value="c" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://news.google.com/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="1P_JAR=2020-11-08-23; SEARCH_SAMESITE=CgQIjpEB; SID=3Qf3L9uslL7110_jMfNzx_vWLXX-6YowOJMmL4_l4csXVquj948cvegg4KGaVxopKBwf6w.; __Secure-3PSID=3Qf3L9uslL7110_jMfNzx_vWLXX-6YowOJMmL4_l4csXVqujxoYm_xaDZXtisuzERWn8RA.; HSID=AWIwnAtx1BVYxfK7-; SSID=AYWoFBh8d-f78slxt; APISID=vSElgHo8Gf8ewb3b/AQJ-d1KrOmeWWOKNW; SAPISID=oy4sfXUd7ghGm0Wf/ArI9c3scYjOHU78F8; __Secure-3PAPISID=oy4sfXUd7ghGm0Wf/ArI9c3scYjOHU78F8; NID=204=0pxJULwc9gwOvMIwMpkqfhOihAQRdMBAOhPpH1jb2HrVX15AS4okKdTBMdGRqdwdmKapgrzVnAAsZOwcA7XQWyaeicOuaZ4Bs7j2oFEu4vag67cVdlDw4rZPr4xWJ2MDYJtH-r5BUjcWZ_JOQ6U25FwTAJltvQc2r6UPN64pAdFkFZ-gJj4KbSD5CbLMoKfikPaHtGm6yUMtjwld7nq3HEdYJsLr0ohtYYGehZsNVvvlXP4tTpjArO5xb3VZJy6cHHx5fIyM6-NFhYL5YUcsRQbXN8z1Esi14BGYHksJO1o3RUMFJSeBnfq1Q9bWJQhoYI2FcKmxRNm4w-vw; GN_PREF=W251bGwsIkNBRVNEQWlnOHFIOUJSQ1l3YnFuQVEiXQo_; SIDCC=AJi4QfGyi-J_rjhKIeDdCq8SMfWRvLPbSAXYuvA6VLnBNKlen1F4wYJRy8lPHd-u4t3L-yC08A; __Secure-3PSIDCC=AJi4QfFYWVYBDqVmBYOV48eHXcn_pbzMsPRv_DmFQIBqdmHAmtbVJIw94n0lSWR-Cz7GYbuCZQ"/>
+    <header name="accept-language" value="en-US,en;q=0.9,fr-CA;q=0.8,fr;q=0.7"/>
+    <header name="origin" value="https://news.google.com"/>
+    <header name="x-same-domain" value="1"/>
+    <header name="accept" value="*/*"/>
+    <header name="x-client-data" value="CIS2yQEIpbbJAQjBtskBCKmdygEIk7jKAQisx8oBCPbHygEI6cjKAQjc1coBCO6XywEImJrLAQjBmssBGIrBygE="/>
+    <header name="content-type" value="application/x-www-form-urlencoded;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site&#xd;
+cache-control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+pragma: no-cache&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+date: Sun, 08 Nov 2020 23:02:58 GMT&#xd;
+content-disposition: attachment; filename="response.bin"; filename*=UTF-8''response.bin&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=31536000&#xd;
+content-encoding: gzip&#xd;
+server: ESF&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+set-cookie: GN_PREF=W251bGwsIkNBRVNEQWlnOHFIOUJSQ1l3YnFuQVEiXQo_; Expires=Mon, 10-May-2021 11:02:58 GMT; Path=/; Secure&#xd;
+set-cookie: SIDCC=AJi4QfGdEqnf88P6ylENuh4YAIEphHFh0XrTEfuozBTwogviLpQ9VrNiLDWqtOxlexkeKYuhbw; expires=Mon, 08-Nov-2021 23:02:58 GMT; path=/; domain=.google.com; priority=high&#xd;
+set-cookie: __Secure-3PSIDCC=AJi4QfHlx6WtKSE9ewoNI29uVD2mS4Q3IqgFoPdZ-P5zMLN3ZP4c95pv8KNeg3MPPOOl8u-cuw; expires=Mon, 08-Nov-2021 23:02:58 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none&#xd;
+alt-svc: h3-Q050=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
